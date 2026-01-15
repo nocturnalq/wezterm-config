@@ -1,3 +1,6 @@
+# Config location
+`~/.config/wezterm`
+
 # Wezterm Hotkeys
 
 ```
