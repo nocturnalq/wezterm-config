@@ -13,7 +13,7 @@ end
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = 'Atelierdune (dark) (terminal.sexy)'
+config.color_scheme = 'Gruvbox Dark (Gogh)'
 config.font = wezterm.font('Monaco', { weight = 'Bold' })
 config.font_size = 16
 config.hide_tab_bar_if_only_one_tab = true
