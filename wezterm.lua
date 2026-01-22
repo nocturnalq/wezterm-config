@@ -17,7 +17,7 @@ config.color_scheme = 'Gruvbox Dark (Gogh)'
 config.font = wezterm.font('Monaco', { weight = 'Bold' })
 config.font_size = 16
 config.hide_tab_bar_if_only_one_tab = true
-config.window_background_opacity = 0.95
+config.window_background_opacity = 1.0
 
 -- for using command key as leader key in neovim
 local function is_vim(pane)
