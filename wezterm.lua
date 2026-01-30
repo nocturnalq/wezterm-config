@@ -18,7 +18,7 @@ config.font = wezterm.font('Monaco', { weight = 'Bold' })
 config.font_size = 16
 config.hide_tab_bar_if_only_one_tab = true
 config.window_background_opacity = 1.0
-
+config.window_close_confirmation = 'NeverPrompt'
 -- for using command key as leader key in neovim
 local function is_vim(pane)
 	local is_vim_env = pane:get_user_vars().IS_NVIM == 'true'
