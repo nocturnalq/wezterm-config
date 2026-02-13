@@ -15,7 +15,7 @@ end
 -- For example, changing the color scheme:
 config.color_scheme = 'Gruvbox Dark (Gogh)'
 config.font = wezterm.font('Monaco', { weight = 'Bold' })
-config.font_size = 16
+config.font_size = 14
 config.hide_tab_bar_if_only_one_tab = true
 config.window_background_opacity = 1.0
 config.window_close_confirmation = 'NeverPrompt'
